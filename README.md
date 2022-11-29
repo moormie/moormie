@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###  &nbsp;👩🏼 About Me
+### 👩🏼 &nbsp;About Me
 
 💻 &nbsp;I started my developer career after finishing a coding bootcamp.\
 💡 &nbsp;I like to learn new technologies and develop myself.\
